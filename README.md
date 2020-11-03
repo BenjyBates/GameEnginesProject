@@ -1,8 +1,6 @@
 Idea is:
-
+# NightDrive 
 <p align="center">
-
-  <# NightDrive>  
 
   ![alt text](https://media1.tenor.com/images/c7221e8c540690fa8beb617f4e5ff999/tenor.gif?itemid=12636128)
   
