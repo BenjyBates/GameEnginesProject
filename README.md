@@ -1,9 +1,19 @@
-Idea is:
-# NightDrive 
-<p align="center">
+# Brian.Net
 
-  ![alt text](https://media1.tenor.com/images/c7221e8c540690fa8beb617f4e5ff999/tenor.gif?itemid=12636128)![alt text](https://i.pinimg.com/originals/e1/70/f4/e170f49b85996b4f87c0eef4a8309e66.gif)
+Name: Benjamin Bates
 
-</p>
+Student Number: d19124545
 
-The game is essentially a visualiser for listening to nightdrive music, a first person camera looks out of a car driving down a road. The surroundings are randomised the drive goes on
+Class Group: DT508
+
+# Description of the project
+Brian.Net is a small scene based on media like Ghost in the Shell and the Matrix. Orignally intended to be much lerger, here is a smaller version of the project.
+
+# Instructions for use
+Click on the icon to get a randomised portrait and info on a character in world. Press the button on the bottom right to reroll.
+
+# How it works
+It's essentially just random range variables inside of strings, over the top of a perlin noise generated city.
+
+# What I am most proud of in the assignment
+That i could actually make it, I'm not the best coder
